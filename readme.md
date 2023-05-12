@@ -1,4 +1,4 @@
-# Login Processes Qt Project
+# Login Application Qt Framework Project
 This is a Qt application that implements a Model-View-Controller (MVC) architecture for handling user login requests, with user and worker threads and a shared queue for processing the requests and receiving responses.
 
 ## Project Overview
